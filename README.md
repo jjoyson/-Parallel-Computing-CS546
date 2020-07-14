@@ -1,4 +1,4 @@
-# -Parallel-Computing-CS546
+# Parallel-Computing-CS546
 
 Parallel computing done on different algorithms.
 
